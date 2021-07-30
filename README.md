@@ -1,6 +1,5 @@
 
 # ETL-pandas
-The application that I've created to automatically transform data into the correct format.
 
 This is an application that takes the required data from Excel and performs necessary transformations to create a CSV file that corresponds to a correct format determined by the inventory optimization software. 
   
