@@ -10,6 +10,6 @@ This application utilizes a command-line interface to prompt the user questions 
  
 It was made with flexibility in mind, meaning other interactive input mechanisms (ex: web client instead of command-line) can be developed and the application can be further extended. 
 
-The output file would look something like that:
+The output file would look like that:
 
 ![example](https://user-images.githubusercontent.com/88110913/127644355-55d16841-b588-470e-ae20-21af95c7c0a7.jpg)
