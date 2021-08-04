@@ -3,7 +3,7 @@
 
 This is an application that takes the required data from Excel and performs necessary transformations to create a CSV file that corresponds to a correct format determined by the inventory optimization software. 
   
-The backbone of this application is a python data analysis and automation library called Pandas. More information:https://pandas.pydata.org/
+The backbone of this application is a Python data analysis and automation library called Pandas. More information:https://pandas.pydata.org/
 
 This application utilizes a command-line interface to prompt the user questions regarding the location of the Excel's target columns, starting row, sheet name, etc. It then extracts the required information from the Excel file located in the input directory and transforms it. The transformed CSV file is created in the output folder and the original is moved to the history folder.
  
